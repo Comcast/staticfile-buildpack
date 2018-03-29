@@ -23,7 +23,7 @@
     "cutlass",
     "packager"
   ]
-  revision = "a7777ea611041ac662c167a674b16f82babe4ce9"
+  revision = "6d1936c34b28898171653fb8d2dfca1144499095"
 
 [[projects]]
   name = "github.com/elazarl/goproxy"
@@ -65,7 +65,7 @@
     "reporters/stenographer/support/go-isatty",
     "types"
   ]
-  revision = "9008c7b79f9636c46a0a945141020124702f0ecf"
+  revision = "03ffd3f46debf00c49ed76d5dbb564ef4839adfe"
 
 [[projects]]
   branch = "master"
@@ -84,7 +84,7 @@
     "matchers/support/goraph/util",
     "types"
   ]
-  revision = "de89e61d40b75aa971a9fc3eae7f4fefabd6e0ee"
+  revision = "649b44d988ce182cabcda7dba01fcf3b6179ad19"
 
 [[projects]]
   name = "github.com/tidwall/gjson"
@@ -107,13 +107,13 @@
     "html/atom",
     "html/charset"
   ]
-  revision = "d25186b37f34ebdbbea8f488ef055638dfab272d"
+  revision = "6078986fec03a1dcc236c34816c71b0e05018fda"
 
 [[projects]]
   branch = "master"
   name = "golang.org/x/sys"
   packages = ["unix"]
-  revision = "dd2ff4accc098aceecb86b36eaa7829b2a17b1c9"
+  revision = "c488ab1dd8481ef762f96a79a9577c27825be697"
 
 [[projects]]
   name = "golang.org/x/text"
